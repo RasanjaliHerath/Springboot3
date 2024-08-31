@@ -16,8 +16,8 @@ This repository contains the Spring Boot application developed during the **Spri
 ### Usage
 Once the application is running, you can access the RESTful services through the following endpoints:
 
-- **GET /api/v1/customers - Retrieve a list of customers.
-- **POST /api/v1/customers - Add a new customer.
-- **PUT /api/v1/customers/{customerid} - Update an existing customer.
-- **DELETE /api/v1/customers/{customerid} - Delete a customer.
+- **GET /api/v1/customers** - Retrieve a list of customers.
+- **POST /api/v1/customers** - Add a new customer.
+- **PUT /api/v1/customers/{customerid}** - Update an existing customer.
+- **DELETE /api/v1/customers/{customerid}** - Delete a customer.
 
